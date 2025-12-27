@@ -34,12 +34,15 @@ cd gaze-controlled-virtual-mouse
     2.MediaPipe 
     3.NumPy
     4. PyAutoGUI 
-  run this in command prompt to install : pip install opencv-python mediapipe numpy pyautogui
+  
+  
+  
+  to install use  : pip install opencv-python mediapipe numpy pyautogui
 
   and
   
   
-  to verify wheter it is installed or not you can run this and check in command prompt: python -c "import cv2, mediapipe, numpy, pyautogui; print('All installed successfully')"
+  to verify wheter it is installed or not use : python -c "import cv2, mediapipe, numpy, pyautogui; print('All installed successfully')"
 
 -->step 3 : Run the program
 
