@@ -27,7 +27,7 @@ corresponding mouse actions.
 >> Setup Instructions
 
 -->Step 1: Clone the repository:
-git clone https://github.com/your-username/gaze-controlled-virtual-mouse.git
+git clone https://github.com/jaisum147/gaze-controlled-virtual-mouse.git
 cd gaze-controlled-virtual-mouse
 -->Step 2: Install required libraries such as:
     1.OpenCV 
